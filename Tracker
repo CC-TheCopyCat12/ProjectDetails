@@ -1,0 +1,53 @@
+# 📈 Live Ecosystem Tracker & Transparency Ledger
+
+Last Updated: March 22, 2026
+
+This ledger tracks every launch, burn, and airdrop within the CopyCat Ecosystem. All data is pulled directly from the Solana blockchain.
+
+---
+
+## 🚀 Active Token Launches
+
+| Token Name | Ticker | Stage | Launch Date | Status | Explorer Link |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| *Example Token* | $EXMPL | 1 (DBC) | 2026-03-22 | 🟢 Trading | [Solscan Link] |
+| *CopyCat Origin* | $CC | 1 (DBC) | Pending | 🕒 Incoming | [TBA] |
+
+---
+
+## 🔥 Burn & Treasury Metrics
+
+We use fees to aggressively reduce supply. "Burn" means tokens are sent to the null address (1111...) and removed forever.
+
+| Token | Total Burned | % of Supply | Treasury Contribution (SOL) |
+| :--- | :--- | :--- | :--- |
+| $EXMPL | 1,200,000,000 | 1.2% | 4.5 SOL |
+| *TOTALS* | *1.2B* | -- | *4.5 SOL* |
+
+---
+
+## 🎁 Airdrop & Staking Schedule (S4A)
+
+10% of every new Stage 2 launch is reserved for stakers of previous tokens. 
+
+| Target Token | Snapshot Date | Eligible Staked Tokens | Vesting Progress |
+| :--- | :--- | :--- | :--- |
+| $TBA-1 | 2026-04-10 | $EXMPL, $CC | 0 / 20 Weeks |
+
+### 🔐 Current Staking Pools
+* *Pool A:* $CC Holders -> [Staking Contract Address]
+* *Pool B:* $EXMPL Holders -> [Staking Contract Address]
+
+---
+
+## 🏛️ Ecosystem Wallets
+
+For total transparency, you can track our administrative and treasury movements here:
+
+* *Liquidity Treasury:* [Your Wallet Address]
+* *Buy-Back/Burn Wallet:* [Your Wallet Address]
+* *Marketing/Admin Fund:* [Your Wallet Address]
+
+---
+
+> *Director's Note:* Updates to this table are made manually after every launch and weekly after every airdrop distribution. If you see a discrepancy, please refer to the on-chain data for the definitive truth.
