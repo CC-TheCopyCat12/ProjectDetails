@@ -1,0 +1,67 @@
+# 📊 Ecosystem Tokenomics & Strategic Roadmap
+
+This document outlines the multi-stage economic framework of the *CopyCat Ecosystem*. Designed by a 35-year TradFi veteran, these mechanics prioritize liquidity depth, deflationary pressure, and long-term holder incentives.
+
+---
+
+## 🛠️ Phase 1: The Bonding Curve (Bootstrap Stage)
+Initial tokens are launched via *Jupiter Studio* using a *Dynamic Bonding Curve (DBC)*. This stage is dedicated to accumulating the "War Chest" (Treasury) required for independent, professional launches.
+
+### Transaction Parameters
+* *Bundled Launch:* Token creation and initial liquidity seeding occur in a single atomic transaction to neutralize front-running snipers.
+* *Buy Tax:* 0.1% (Minimal friction for entry).
+* *Sell Tax:* 5.9% (Captures volatility and penalizes short-term exit).
+
+### Revenue Allocation (Stage 1)
+| Allocation | Percentage | Purpose |
+| :--- | :--- | :--- |
+| *Liquidity Treasury* | 80% | Funding independent liquidity for Stage 2 launches. |
+| *Marketing* | 10% | Direct promotion for the specific trending token. |
+| *Buy-Back & Burn* | 10% | Immediate deflationary pressure on the token supply. |
+
+---
+
+## 🚀 Phase 2: Independent Liquidity (Maturity Stage)
+Once the Treasury reaches sustainable levels, we transition to direct DEX listings on *Jupiter/Raydium* without a bonding curve.
+
+### Launch Logic
+* *Fixed Supply:* 100,000,000,000 (100B) tokens per launch.
+* *Standardized Price:* Every new token starts at a consistent entry valuation.
+* *Cadence:* Maximum of *2 launches per week* to ensure focus and prevent market exhaustion.
+
+### Revenue Allocation (Stage 2)
+| Allocation | Percentage | Purpose |
+| :--- | :--- | :--- |
+| *Buy-Back & Burn* | 25% | Aggressive deflationary mechanism. |
+| *Marketing* | 25% | Funding social rewards, mods, and high-tier promotions. |
+| *$COPYCAT Fund* | 25% | Dedicated capital to buy-back and burn the principal ecosystem token. |
+| *Admin/Dev* | 25% | Operational expenses and ecosystem maintenance. |
+
+---
+
+## 🔐 Staking & The Airdrop Loop
+We reward the "Diamond Hands" of the ecosystem through a 20-week loyalty cycle.
+
+### The Mechanism
+1. *Stake:* Holders of earlier tokens stake their balance in the "Genie Portal."
+2. *Snapshot:* A snapshot is taken prior to every new Stage 2 launch.
+3. *Distribute:* 10% of the new token's supply is set aside for stakers.
+4. *Pro-Rata:* You receive tokens based on your quantity of staked tokens, regardless of market value.
+
+### Vesting Schedule (The 5/20 Rule)
+* *Duration:* 20 Weeks.
+* *Release:* 5% of tokens are unlocked every 7 days.
+* *Objective:* Prevents "dump-on-listing" behavior and encourages long-term ecosystem participation.
+
+---
+
+## 💎 $COPYCAT: The Principal Asset
+$COPYCAT is the core utility and value-accrual token of the entire ecosystem.
+
+* *Format:* Standard SPL Token (No Taxes).
+* *Listing:* Targeted for Centralized Exchanges (CEX).
+* *Deflation:* 25% of all Stage 2 fees from every peripheral token are used to buy back and permanently burn $COPYCAT from the open market.
+
+---
+
+> *Note on Transparency:* All Treasury wallets, Burn addresses, and Staking contracts are public and viewable on-chain. Trust is earned through code, not just words.
